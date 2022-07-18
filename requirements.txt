@@ -1,3 +1,7 @@
 matplotlib
 sklearn
+numpy
+pandas
+install
 jupyterlab
+kaggle
